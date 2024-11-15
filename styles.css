@@ -25,5 +25,13 @@ body {
     margin: 0 10px;
     display: flex;
     flex-direction: column;
-    
+}
+
+.card-d {
+    padding: 20px;
+}
+
+.title {
+    background-color: burlywood;
+    justify-content: center;
 }
