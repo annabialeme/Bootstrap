@@ -4,7 +4,6 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: bisque;
     display: flex;
     justify-content: center;
 }
@@ -29,7 +28,7 @@ body {
 }
 
 .title {
-    background-color: burlywood;
+    background-color: rgb(198, 233, 243);
     justify-content: center;
 }
 
@@ -41,4 +40,9 @@ body {
 button a {
     text-decoration: none;
     color: rgb(109, 183, 226);
+}
+
+.title {
+    display: flex;
+    justify-content: center;
 }
