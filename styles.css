@@ -37,3 +37,8 @@ body {
     display: flex;
     justify-content: center;
 }
+
+button a {
+    text-decoration: none;
+    color: rgb(109, 183, 226);
+}
