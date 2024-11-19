@@ -11,7 +11,6 @@ body {
 
 
 .text {
-    display: inline-block;
     padding: 10px;
     border-radius: 20px;
     font-size: 0.8rem;
@@ -23,8 +22,6 @@ body {
     overflow: hidden;
     width: 300px;
     margin: 0 10px;
-    display: flex;
-    flex-direction: column;
 }
 
 .card-d {
@@ -33,5 +30,10 @@ body {
 
 .title {
     background-color: burlywood;
+    justify-content: center;
+}
+
+.botao{
+    display: flex;
     justify-content: center;
 }
